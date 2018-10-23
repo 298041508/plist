@@ -8,7 +8,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://122.224.165.243:8019/build_slg/slg.ipa</string>
+                    <string>http://122.224.165.243:6091/slg.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
