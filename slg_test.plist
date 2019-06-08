@@ -14,7 +14,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.baiyou.slg</string>
+                <string>com.game.slg</string>
                 <key>bundle-version</key>
                 <string>1.00</string>
                 <key>kind</key>
