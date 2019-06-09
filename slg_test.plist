@@ -8,13 +8,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.2.7:6091/slg.ipa</string>
+                    <string>http://home.xiexie100.top:6091/slg.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.game.slg</string>
+                <string>com.baiyou.slg</string>
                 <key>bundle-version</key>
                 <string>1.00</string>
                 <key>kind</key>
